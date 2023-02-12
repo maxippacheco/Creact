@@ -1,0 +1,14 @@
+{
+  "name": "creact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maximo",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.20.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.0",
+    "parcel": "^2.8.3"
+  }
+}
